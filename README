@@ -2,7 +2,7 @@ I wrote this code to create wallpapers consisting of game advertisements from ol
 
 It's a messy collection of scripts and there are no instructions or anything. I don't even remember how it works exactly.
 
-I wrote a blog post explaining a bit about how it works here: http://cosmicrealms.com
+I wrote a blog post explaining a bit about how it works here: http://cosmicrealms.com/blog/2012/12/31/c64-magazine-game-wallpaper-generator/
 
 WARNING: The histogram NPM module used by this code I had modified to support some additional features.
 Sadly I acidentally deleted the modified version. It wasn't anything major, I think it took an hour to make the changes in the first place, but I have no idea what I did.
